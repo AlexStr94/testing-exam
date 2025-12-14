@@ -16,6 +16,7 @@
 
 ## Структура проекта
 
+```
 src
 └── test
 └── java
@@ -26,8 +27,6 @@ src
 │ └── WikipediaWebTest.java # Тестовые сценарии
 | └── BaseTest.java # Инициализация WebDriver
 └──pom.xml # Maven dependencies
-
-
 ---
 
 ## Используемые технологии
